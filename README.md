@@ -1,6 +1,6 @@
 # Email Development for apple products newsletter
 > Developed a apple products email with HTML, CSS
-> Live demo [_here_](https://www.example.com). 
+> Live demo [_here_](https://salmanghouse1.github.io/responsive-electronics-email/). 
 
 ## Table of Contents
 * [General Info](#general-information)
