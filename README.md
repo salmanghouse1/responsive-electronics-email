@@ -33,7 +33,7 @@
 - Hover State Buttons
 
 ## Screenshots
-![Example screenshot](./assets/images/screenshot.png)
+![Example screenshot](./assets/images/screenshot.PNG)
 <!-- If you have screenshots you'd like to share, include them here. -->
 
 
